@@ -39,4 +39,4 @@ The notebook outputs:
 
 ## License
 
-This project is open-source and available under the Creative Commons License.
+This project is open-source and available under the Creative Commons License Zero.
