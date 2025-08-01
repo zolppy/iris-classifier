@@ -19,7 +19,7 @@ This project demonstrates the use of a Multi-layer Perceptron (MLP) classifier o
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/iris-mlp-classification.git
+git clone https://github.com/zolppy/iris-classifier.git
 cd iris-mlp-classification
 ```
 
